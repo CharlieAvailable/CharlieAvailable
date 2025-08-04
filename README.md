@@ -11,11 +11,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharlieAvailable&hide_border=true&background=00000000&stroke=0D0D0D&ring=1A1A1A&fire=2A2A2A&currStreakNum=2A2A2A&currStreakLabel=1A1A1A&sideNums=2A2A2A&sideLabels=1A1A1A&dates=1A1A1A" height="150" />
 
 <br>
+<br>
 
-```css
-Dev Director @ OutLawRD
-```
+<img src="https://img.shields.io/badge/Dev_Director_@_OutLawRD-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d" />
 
+<br>
 <br>
 
 <img src="https://skillicons.dev/icons?i=lua,cpp,py&theme=dark" height="28" />
